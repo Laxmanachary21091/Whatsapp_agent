@@ -1,0 +1,8 @@
+flask
+twilio
+crewai
+langchain
+langchain-openai
+apscheduler
+pyttsx3
+dateparser
